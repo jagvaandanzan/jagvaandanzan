@@ -1,4 +1,4 @@
-<h1 align="center">Mister, danzan</h1>
+<h1 align="center">Mister Danzan</h1>
 <h3 align="center">A man who has practiced kicks 10000 once</h3>
 
 <p align="center"> <a href="https://twitter.com/jagvaandanzan" target="blank"><img src="https://img.shields.io/twitter/follow/jagvaandanzan?logo=twitter&style=for-the-badge" alt="jagvaandanzan" /></a> </p>
