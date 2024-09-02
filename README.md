@@ -1,7 +1,7 @@
 <h1 align="center">Mister Danzan</h1>
 <h3 align="center">A man who has practiced kicks 10000 once</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bombooleii&label=Profile%20views&color=0e75b6&style=flat" alt="bombooleii" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jagvaandanzan&label=Profile%20views&color=0e75b6&style=flat" alt="jagvaandanzan" /> </p>
 
 <p align="center"> <a href="https://twitter.com/jagvaandanzan" target="blank"><img src="https://img.shields.io/twitter/follow/jagvaandanzan?logo=twitter&style=for-the-badge" alt="jagvaandanzan" /></a> </p>
 
