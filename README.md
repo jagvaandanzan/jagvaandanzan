@@ -1,7 +1,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jagvaandanzan&label=Profile%20views&color=0e75b6&style=flat" alt="jagvaandanzan" /> </p>
 <h1 align="center">Mister Danzan</h1>
-<h3 align="center">A man who has practiced kicks 10000 once</h3>
+<h3 align="center">A man working on a laptop.</h3>
 
 
 <h3 align="center">Connect with me:</h3>
